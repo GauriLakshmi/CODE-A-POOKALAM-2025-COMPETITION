@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 - **Name:** Gauri Lakshmi
 - **Institution/Company:** RIT Kottayam
-- **GitHub:** [@your-username](https://github.com/your-username)
+- **GitHub:** [@yGauriLakshmi](https://github.com/your-username)
 - **Programming Language Used:** Python
 
 ## 🎨 My Pookalam
@@ -13,7 +13,8 @@
 My pookalam is a very simple yet fun pookalam which anyone can implement and design at their homes. Minimal cours, skills and patterns required to make your Onam happy!
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam](output/pookalam-preview.png)<img width="1049" height="980" alt="Pookkalam images" src="https://github.com/user-attachments/assets/c298384a-fd1a-48d1-8719-6675002576bf" />
+
 
 
 ### Features
