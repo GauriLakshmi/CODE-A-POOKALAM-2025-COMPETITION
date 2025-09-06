@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 - **Name:** Gauri Lakshmi
 - **Institution/Company:** RIT Kottayam
-- **GitHub:** [@yGauriLakshmi](https://github.com/your-username)
+- **GitHub:** [@GauriLakshmi](https://github.com/your-username)
 - **Programming Language Used:** Python
 
 ## 🎨 My Pookalam
